@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Telegram Web Akinator Bot
 // @namespace   Telegram Web Akinator Bot
+// @author      J0hn8uff3r
 // @require     https://code.jquery.com/jquery-3.3.1.js
 // @description This bot let the user to play with another one via Telegram Web and guess the character that the other human being is thinking about
 // @icon        https://i.snag.gy/8NjKnH.jpg
