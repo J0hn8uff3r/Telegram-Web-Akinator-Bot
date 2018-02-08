@@ -20,5 +20,5 @@ $(window).on("load", function() {
     script2.src = 'https://cdn.rawgit.com/J0hn8uff3r/Telegram-Web-Akinator-Bot/master/script.js';
     $("body").append( script2 );
 
-    $( ".im_send_buttons_wrap" ).append( '<img src="https://i.snag.gy/8NjKnH.jpg" onclick="start();" >' );
+    $( ".im_send_buttons_wrap" ).prepend( '<img src="https://i.snag.gy/8NjKnH.jpg" onclick="start();" >' );
 });
