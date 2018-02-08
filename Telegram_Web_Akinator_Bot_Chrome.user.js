@@ -11,7 +11,7 @@
 $(window).on("load", function() {
 
     var script2 = document.createElement( 'script' );
-    script2.src = 'https://rawgit.com/J0hn8uff3r/Telegram-Web-Akinator-Bot/master/apinator.js';
+    script2.src = 'https://cdn.rawgit.com/J0hn8uff3r/Telegram-Web-Akinator-Bot/master/apinator.js';
     $("body").append( script2 );
 
     var script3 = document.createElement( 'script' );
