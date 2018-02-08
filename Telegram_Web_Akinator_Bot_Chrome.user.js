@@ -2,6 +2,7 @@
 // @name        Telegram Web Akinator Bot
 // @namespace   Telegram Web Akinator Bot
 // @description This bot let the user to play with another one via Telegram Web and guess the character that the other human being is thinking about
+// @icon        https://i.snag.gy/8NjKnH.jpg
 // @include     http*://web.telegram.org/#/im?p=@*
 // @include     http*://web.telegram.org/*
 // @version     1
